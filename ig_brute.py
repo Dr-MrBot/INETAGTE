@@ -18,7 +18,7 @@ init()
 # API Key configuration
 VALID_API_KEY = "hypercoder"  # Plain API key for comparison
 ENCRYPTION_KEY = b'YourVerySecretKey123'  # Key for encryption
-TELEGRAM_LINK = "https://t.me/your_telegram_username"  # Replace with your Telegram link
+TELEGRAM_LINK = "https://t.me/Dr_Mrbot"  # Replace with your Telegram link
 
 def generate_encryption_key():
     kdf = PBKDF2HMAC(
