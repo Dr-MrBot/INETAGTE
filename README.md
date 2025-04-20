@@ -51,7 +51,7 @@ python ig_brute.py
 
 To use the tool, an API key is required. You can purchase the key via our official Telegram contact:
 
-📬 [Telegram Contact](https://t.me/@Dr_Mrbot)
+📬 [Telegram Contact](https://t.me/Dr_Mrbot)
 
 ---
 
@@ -77,4 +77,4 @@ Once launched:
 ## 👨‍💻 Author
 
 **HyperCoder Security Labs**  
-For support, updates, and more tools, reach out via [Telegram](https://t.me/@Dr_Mrbot).
+For support, updates, and more tools, reach out via [Telegram](https://t.me/Dr_Mrbot).
