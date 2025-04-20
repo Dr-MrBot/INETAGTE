@@ -24,8 +24,8 @@ This tool is developed strictly for **educational purposes** and for **authorize
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/ig-brute-tool.git
-cd ig-brute-tool
+git clone https://github.com/Dr-MrBot/INETAGTE.git
+cd INETAGTE
 ```
 
 2. **Install the required dependencies:**
